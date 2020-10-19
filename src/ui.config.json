@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "site": "Tech Radar Pro",
+        "url": "https://www.techradar.com/news/the-best-free-blogging-sites"
+    },
+    {
+        "id": 2,
+        "site": "Popular Science",
+        "url": "https://www.popsci.com/"
+    },
+    {
+        "id": 3,
+        "site": "National Geographic",
+        "url": "https://www.nationalgeographic.com/"
+    },
+    {
+        "id": 4,
+        "site": "Discovery",
+        "url": "https://www.discovery.com/"
+    },
+    {
+        "id": 5,
+        "site": "Vacay",
+        "url": "https://vacay.ca/"
+    },
+    {
+        "id": 6,
+        "site": "Live Science",
+        "url": "https://www.livescience.com/"
+    },
+    {
+        "id": 7,
+        "site": "Gateway Canyons",
+        "url": "https://www.gatewaycanyons.com/"
+    }
+]
